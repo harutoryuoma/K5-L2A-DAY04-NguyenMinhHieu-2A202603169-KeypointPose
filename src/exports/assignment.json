@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603169",
+ "ten": "NguyenMinhHieu",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "haruto",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000175703.jpg",
+  "000000336477.jpg",
+  "000000343057.jpg",
+  "000000433787.jpg",
+  "000000525227.jpg",
+  "000000156986.jpg",
+  "000000189365.jpg",
+  "000000469061.jpg",
+  "000000391222.jpg",
+  "000000431988.jpg",
+  "000000100510.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_145751.jpg",
+  "face_469647.jpg",
+  "face_137371.jpg",
+  "face_415073.jpg",
+  "face_504911.jpg",
+  "face_13874.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "persons-NguyenMinhHieu"
+  },
+  "faces": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "faces-NguyenMinhHieu"
+  }
+ }
+}
